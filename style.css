@@ -1,0 +1,17 @@
+h1{
+
+	font-size: 60px;
+}
+
+h5{
+  font-weight: bolder;
+}
+h2{
+  font-size: 40px
+}
+body{
+	background-color: lightgrey;
+}
+footer{
+	background-color: darkgrey;
+}
